@@ -1,0 +1,45 @@
+{
+    "question": [
+      "Q1. Which of the following is not a valid variable name in Python?",
+      "Q2. What does the len() function in Python return?",
+      "Q3. What does the pass statement do in Python?",
+      "Q4. Which of the following statements is true about Python's list?",
+      "Q5. Which of the following is used to add a new item to the end of a list?"
+    ],
+    "answer": [
+      2,
+      4,
+      2,
+      2,
+      1
+    ],
+    "options": [
+  
+      ["my_variable",
+        "2nd_variable",
+        "_variable",
+        "variable_2nd"
+      ],
+      ["Total number of elements in a list",
+        "Total number of characters in a string",
+        "Total number of keys in a dictionary",
+        "All of the above"
+      ],
+      ["Terminates the program",
+        "Continues to the next iteration of a loop",
+        "Skips the current iteration of a loop",
+        "None of the above"
+      ],
+      ["Lists are immutable",
+        "Lists can contain items of different types",
+        "Lists are accessed using curly braces {}",
+        "Lists cannot be nested"
+      ],
+      [
+        "append()",
+        "extend()",
+        "insert()",
+        "remove()"
+      ]
+    ]
+  }
